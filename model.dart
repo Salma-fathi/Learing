@@ -32,14 +32,14 @@ List<Product> products = [
   Product(
     id: 3,
     title: "Finance",
-    image: "assets/images/finance.png",
+    image: "network/images/https://www.risq.info/wp-content/uploads/2020/10/ryse-banner-right-new.jpg ",
     color: Color(0xFFffaa5b),
     courses: 15,
   ),
   Product(
     id: 4,
     title: "UI/Ux design",
-    image: "assets/images/ux.png",
+    image: "network/images/https://www.datocms-assets.com/14946/1633281680-ux-vs-ui-cover-edited.png?auto=format&w=912 ",
     color: Color(0xFF9ba0fc),
     courses: 18,
   ),
